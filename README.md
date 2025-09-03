@@ -84,7 +84,7 @@ This project demonstrates:
 ---
 
 ## Acknowledgements  
-Thanks to the anonymized stakeholders who shared their operational insights.  
+Thanks to the stakeholders who shared their operational insights.  
 
 ---
 
