@@ -90,5 +90,5 @@ Thanks to the stakeholders who shared their operational insights.
 
 ## Contact  
 **Akshay Deep Siddam**  
-📧 siddam.akshaydeep@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/akshaydeep-siddam/)  
+akshaydeep.nyc@gmail.com 
+LinkedIn - https://www.linkedin.com/in/adsnyc/
